@@ -100,7 +100,7 @@ CREATE TABLE Bids (
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/online-bidding-system.git
+   git clone https://github.com/yatishgautam00/Online-bidding-system.git
    cd online-bidding-system
    ```
 2. Create the database:
